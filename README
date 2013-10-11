@@ -4,9 +4,11 @@ ROW is an mobile device based application that was born from the sheer desire fo
 
 ROW is a FileMaker based mobile app that requires FileMaker Go to run this app.  FileMaker Go can be downloaded for free at http://www.filemaker.com/products/filemaker-go/
 
+
 = Requirement
 * Android or iPhone
 * FileMaker Go
+
 
 = Future Plan
 * Add connectivity to temperture sensor.  Plan to use Arduino as thermometer's base platform
