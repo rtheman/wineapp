@@ -1,6 +1,8 @@
 = Rich's Organizer for Wine (ROW)
 
-ROW is an mobile device based application that was born from the sheer desire for an intuitive and elegant way to categorize one's wine collection.  Furthermore, I want to have a way to dynamically track the wine's current value (should the wine be that posh and know that we can auction the wine off at a fair starting price).
+ROW is mobile app that was born from the sheer desire for an intuitive and elegant way to organize and categorize one's wine collection.  That way, I can easily pick which bottle I should or should not drink depending on its maturitythe mood I'm in that day.  Also, ROW provides a market price for each wine (via Wine-Search.com).  So should the posh wines I've purchased have enough demand, I can sell it at a fair/profitable price.
+
+There are probably much better written and looking apps out there in this category.  But building this app helps me connect with my developer / creative side, and keep up my coding and prototyping disiplines.
 
 ROW is a FileMaker based mobile app that requires FileMaker Go to run this app.  FileMaker Go can be downloaded for free at http://www.filemaker.com/products/filemaker-go/
 
@@ -8,10 +10,11 @@ ROW is a FileMaker based mobile app that requires FileMaker Go to run this app. 
 = Requirement
 * Android or iPhone
 * FileMaker Go
+* Some wine you have not drink yet
 
 
 = Future Plan
-* Add connectivity to temperture sensor.  Plan to use Arduino as thermometer's base platform
+* Add temperature reading.  Plan to use Arduino as thermometer's base platform.
 
 
 Last modified on Oct 11, 2013
