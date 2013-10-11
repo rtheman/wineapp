@@ -11,6 +11,13 @@ ROW is a FileMaker based mobile app that requires FileMaker Go to run this app. 
 * Wine you have not drink yet
 
 
+= Versions
+* 0.1 (10/1/2013)
+  - Built UI for phone and tablet formats
+  - Built search and filters
+  - Creaetd WSDL for Wine-Searcher.com API for wine's market price
+
+
 = Future Plan
 * Refine UI
   - Adjust for phone and tablet screen size
