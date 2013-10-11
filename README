@@ -1,6 +1,6 @@
 = Rich's Organizer for Wine (ROW)
 
-ROW is simple mobile application that categorizes one's personal wine collection.  ROW also cross referenced the wine in the database with a market value based on prices listed by merchant across the globe.
+ROW is simple mobile application that categorizes one's personal wine collection.  ROW also cross referenced wines in the database with a market value based on prices listed by merchants across the globe on Wine-Searcher.com.
 
 ROW is a FileMaker based mobile app that requires FileMaker Go to run this app.  FileMaker Go can be downloaded for free at http://www.filemaker.com/products/filemaker-go/
 
