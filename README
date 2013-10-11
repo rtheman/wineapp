@@ -1,7 +1,15 @@
-What:
+= Rich's Organizer for Wine (ROW)
 
+ROW is an mobile device based application that was born from the sheer desire for an intuitive and elegant way to categorize one's wine collection.  Furthermore, I want to have a way to dynamically track the wine's current value (should the wine be that posh and know that we can auction the wine off at a fair starting price).
 
-Requirement:
+ROW is a FileMaker based mobile app that requires FileMaker Go to run this app.  FileMaker Go can be downloaded for free at http://www.filemaker.com/products/filemaker-go/
+
+= Requirement
+* Android or iPhone
+* FileMaker Go
+
+= Future Plan
+* Add connectivity to temperture sensor.  Plan to use Arduino as thermometer's base platform
 
 
 Last modified on Oct 11, 2013
